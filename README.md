@@ -23,7 +23,7 @@ where:
 To cite the paper/code, please use this BibTex
 
 ```
-@inproceedings{amplayo2017entity,
+@inproceedings{amplayo2018cold,
 	Author = {Reinald Kim Amplayo and Jihyeok Kim and Sua Sung and Seung-won Hwang},
 	Booktitle = {ACL},
 	Location = {Melbourne, Australia},
